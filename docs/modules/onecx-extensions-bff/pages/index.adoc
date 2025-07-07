@@ -1,0 +1,8 @@
+include::onecx-extensions-bff-attributes.adoc[opts=optional]
+
+== onecx-extensions-bff
+
+include::docs.adoc[opts=optional]
+
+
+include::onecx-extensions-bff-docs.adoc[opts=optional]
